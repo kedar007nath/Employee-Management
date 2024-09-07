@@ -5,11 +5,9 @@
 - [Description](#description)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Video Walkthrough](#video-walkthrough)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contact Me](#contact-me)
 - [My Development Environment](#my-development-environment)
 - [Languages, Technologies and Packages used](#languages-technologies-and-packages-used)
 
@@ -46,12 +44,6 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 ```
-
-## Video Walkthrough
-
-The following video shows an example of the application being used from the command line - Please [click here](https://drive.google.com/file/d/1D4BlpzGmmyc1UbVKMTP0ObKn4AYDk2mN/view?usp=sharing) to view the demo or click on the thumbnail below:
-
-[![A video thumbnail shows the command-line employee management application with a play button overlaying the view.](./Assets/12-sql-homework-video-thumbnail.png)](https://drive.google.com/file/d/1D4BlpzGmmyc1UbVKMTP0ObKn4AYDk2mN/view?usp=sharing)
 
 ## Screenshots
 
@@ -136,15 +128,6 @@ npm run seed
 npm run start
 
 ```
-
-## Contact me
-
-- Contact me by Email: [m.faisal244@gmail.com](mailto:m.faisal244@gmail.com)
-
-- [Connect with me on linkedin](https://www.linkedin.com/in/faisal244/)
-
-- [View my Portfolio](https://faisal244.github.io/Portfolio/)
-
 ## My Development Environment
 
 - VScode
